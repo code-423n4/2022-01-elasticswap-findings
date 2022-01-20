@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "static",
+  "address": "0x2e847AaE43C2d08BCE43195dee62Ab7cb63c7451",
+  "risk": "2",
+  "title": "Possible Re-entrancy in _sendSherRewardsToOwner",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/1"
+}
