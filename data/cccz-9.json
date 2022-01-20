@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "1",
+  "title": "Exchange assumes quoteToken is WETH or a stable coin",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/9"
+}
