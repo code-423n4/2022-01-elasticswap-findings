@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "No check that _baseToken or _quoteToken address is not address(this)",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/10"
+}
