@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "G",
+  "title": "`Exchange.removeLiquidity()` repeatedly reads a state variable instead of caching it.",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/54"
+}
