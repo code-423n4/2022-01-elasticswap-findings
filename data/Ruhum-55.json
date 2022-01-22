@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "G",
+  "title": "`internalBalance` state variable is read and written multiple times within a single transaction",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/55"
+}
