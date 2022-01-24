@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "G",
+  "title": "caching struct in memory cost more gas",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/79"
+}
