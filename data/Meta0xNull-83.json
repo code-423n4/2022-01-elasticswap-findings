@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "G",
+  "title": "Long Revert Strings are Waste of Gas",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/83"
+}
