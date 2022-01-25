@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "1",
+  "title": "User facing Exchange and ExchangeFactory miss emergency lever",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/109"
+}
