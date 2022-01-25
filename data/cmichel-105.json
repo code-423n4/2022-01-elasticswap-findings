@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`Factory.createNewExchange` can be frontrun with stupid names",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/105"
+}
