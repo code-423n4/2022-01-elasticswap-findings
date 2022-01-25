@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "BouSalman",
+  "address": "0xDdd4D4c17971dBfC6FD781c3354DCaa7757a87eb",
+  "risk": "G",
+  "title": "gas optimization by using shift operator on math library",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/97"
+}
