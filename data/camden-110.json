@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "1",
+  "title": "Users can grief name and symbol for a market, DAO unable to change",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/110"
+}
