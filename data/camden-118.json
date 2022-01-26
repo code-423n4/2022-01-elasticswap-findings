@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "3",
+  "title": "Attacker can grief initial pool by providing 1 baseToken, 1 quoteToken, and manually transferring 1 baseToken",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/118"
+}
