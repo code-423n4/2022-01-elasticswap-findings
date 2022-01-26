@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "haku",
+  "address": "0xcC84F898DeC4169239A5b64d038DefC6813b7d4F",
+  "risk": "G",
+  "title": "constant variables should not be public",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/135"
+}
