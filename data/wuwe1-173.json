@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "G",
+  "title": "Redundant code",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/173"
+}
