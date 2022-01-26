@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "1",
+  "title": "Remove liquidity LP token quantity and address arguments aren’t checked",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/168"
+}
