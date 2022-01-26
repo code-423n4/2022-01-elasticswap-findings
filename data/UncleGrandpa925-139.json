@@ -1,0 +1,9 @@
+{
+  "contest": "ElasticSwap contest",
+  "handle": "UncleGrandpa925",
+  "address": "0x171ea6acDdA2Cb411E4763d71e91b10d96B64f81",
+  "risk": "1",
+  "title": "Lack of feeOnTransfer check for quoteTokens",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2022-01-elasticswap-findings/issues/139"
+}
